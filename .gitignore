@@ -1,0 +1,13 @@
+
+# Maven
+target/
+
+# IntelliJ / VS Code
+.idea/
+.vscode/
+
+# Arquivos gerados pela automação
+resultados.xlsx
+
+# Logs
+*.log

@@ -58,7 +58,7 @@ selenium-project-automacao/
 ### 2. Clonar o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/JuliaMoriC/selenium-project-automacao.git
 ```
 
 ### 3. Acessar a pasta
